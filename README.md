@@ -20,3 +20,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hungneit&icon=0&color=0)](https://visitcount.itsvg.in)
+### GitHub Sponsors
+
+Hiện tại, tôi đang tham gia vào chương trình GitHub Sponsors. Nếu bạn muốn ủng hộ dự án của tôi, bạn có thể làm điều đó bằng cách trở thành một nhà tài trợ. Các nhà tài trợ sẽ nhận được một số lợi ích, bao gồm truy cập sớm vào các tính năng mới và hỗ trợ ưu tiên.
+
+[![Sponsor me](https://img.shields.io/badge/Sponsor-me-blue)](https://github.com/sponsors/your_username)
